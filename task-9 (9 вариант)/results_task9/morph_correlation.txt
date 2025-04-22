@@ -1,0 +1,4 @@
+Letters: []
+Kendall tau (Area, Perimeter) = 0.000
+Kendall tau (Area, Connectivity) = 0.000
+Kendall tau (Perimeter, Connectivity) = 0.000
