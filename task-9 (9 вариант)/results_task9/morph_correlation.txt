@@ -1,4 +1,4 @@
-Letters: []
-Kendall tau (Area, Perimeter) = 0.000
+Letters: ['2', '3', '7', 'A', 'I', 'X', 'И']
+Kendall tau (Area, Perimeter) = 0.381
 Kendall tau (Area, Connectivity) = 0.000
-Kendall tau (Perimeter, Connectivity) = 0.000
+Kendall tau (Perimeter, Connectivity) = 0.381
